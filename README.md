@@ -1,4 +1,4 @@
-<img style="height:50px; width: auto;" src="https://cdn.vox-cdn.com/thumbor/wuG_FN78uNRHgorcfmmy-O4Mrw8=/0x0:3060x1549/1200x800/filters:focal(1286x531:1774x1019):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/63332440/1.1.1.1_fancycolor.0.gif">
+
 
 Just a simple windows 10 client/ batch script to Enable/ Disable 1.1.1.1 as well as check current DNS settings.
 
