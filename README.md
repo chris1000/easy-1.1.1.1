@@ -2,8 +2,9 @@
 
 Just a simple windows 10 client/ batch script to Enable/ Disable 1.1.1.1 as well as check current DNS settings.
 
+I've only ever tested this on Windows 10, if reported to work on older versions I'll update this as such.
 
-Credit where credits due:
+<b>Credit:</b>
 * https://github.com/holmseyy/1.1.1.1 - Terminal commands that made this project possible
 * CloudFlare - For their awesome 1.1.1.1 service
 * https://stackoverflow.com/a/14687898 - For the shortcut icon idea (detailed instructions)
