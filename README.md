@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/chris1000/easy-1.1.1.1/master/screenshot.png">
 
-Just a simple windows 10 client/ batch script to Enable/ Disable 1.1.1.1 as well as check current DNS settings.
-
-I've only ever tested this on Windows 10, if reported to work on older versions I'll update this as such.
+Just a simple windows 10 client/ batch script to Enable/ Disable 1.1.1.1 as well as check current DNS settings. I've only ever tested this on Windows 10, if reported to work on older versions I'll update this as such.
 
 <b>Credit:</b>
 * https://github.com/holmseyy/1.1.1.1 - Terminal commands that made this project possible
